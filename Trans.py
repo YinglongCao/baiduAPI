@@ -12,7 +12,7 @@ def md5_encode(strings):
     return m.hexdigest()
 
 
-class Trans():
+class new():
     def __init__(self, key, pwd):
         self.apiKey = key
         self.pwd = pwd
