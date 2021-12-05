@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='baiduAPI',
+    name='baidu_Translator_zh_en',
     version='0.0.1',
-    keywords='baidu API',
-    description='a library for oprate the baidu API',
+    keywords='baidu translate',
+    description='a library for oprate the baidu translator',
     license='GPL License',
     url='https://github.com/YinglongCao/baiduAPI',
     author='Yinglong Cao',

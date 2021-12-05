@@ -1,2 +1,3 @@
-# baiduAPI
-python操作百度api库
+# baidu_translator
+
+python操作百度中英翻译库
